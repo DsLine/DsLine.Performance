@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "274P3+2+Djuvi1bisXmP+PaQCEhpwSrAckN0UvTH8n7dw9bDi2xk1S5PfnxlKhI6RpQywXrQsjCAXy7Kb0PHjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frabr\\source\\repos\\DsLine.Performance\\DsLine.Performance.Compression\\DsLine.Performance.Compression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frabr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\frabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
